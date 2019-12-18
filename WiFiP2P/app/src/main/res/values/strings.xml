@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wi-Fi P2P</string>
+    <string name="connection_status">Connection Status</string>
+    <string name="send">Send</string>
+    <string name="discover">Discover</string>
+    <string name="wifi_on">Wifi on</string>
+</resources>
